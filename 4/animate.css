@@ -1,0 +1,26 @@
+/* * 
+{
+  margin: 0;
+  padding: 0;
+} */
+
+h1 {
+  font-family: 'Lobster', cursive;
+  color: green;
+}
+
+p{
+font-family: 'Lobster', cursive;
+}
+.tom{
+  text-align: center;
+  font-size: 30px;
+  color: dimgrey;
+}
+h2{
+font-family: 'Pangolin', cursive;
+text-align: center;
+}
+.lili,li,a{
+  color: orangered;
+}
